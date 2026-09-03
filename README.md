@@ -6,7 +6,7 @@ source $HOME/.cargo/env
 
 rustup install stable
 
-rustup update stable
+rustup update stble
 
 rustup default stable
 
